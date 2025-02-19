@@ -25,7 +25,3 @@ Given("I am on the computer page", ()=>{
     I.waitForElement(".success", 20)
   })
   
-  
-  
-  
-  
